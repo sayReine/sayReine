@@ -1,8 +1,8 @@
 <!-- ======================= 🌈 PREMIUM HEADER ======================= -->
 <h1 align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="70">
+  <!-- <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="70"> -->
   <br>
-  Hey, I'm <strong>Sayinzoga Reine Esther Keza</strong> 👋
+  I'm <strong>Sayinzoga Reine Esther Keza</strong> 
 </h1>
 
 <!-- Typing Animation -->
@@ -11,13 +11,13 @@
 </p>
 
 <!-- Profile Views -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sayreine&label=Profile+Views&color=8A2BE2&style=for-the-badge">
-</p>
+</p> -->
 
 ---
 
-# 🌸 About Me
+# About Me
 ```bash
 💡 Role: Full Stack Developer  
 🌱 Currently Learning: Next.js & Advanced React  
@@ -53,13 +53,13 @@
   
   
   <!-- Other -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+  <!--<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/> -->
 </p>
 
 
-🏆 GitHub Streak & Trophy
-<div align="center"> <img src="https://streak-stats.demolab.com?user=sayreine&theme=dracula&mode=daily" height="150" alt="GitHub streak"/> <img src="https://github-profile-trophy.vercel.app/?username=sayreine&theme=dracula" height="150" alt="GitHub trophies"/> </div>
+<!--🏆 GitHub Streak & Trophy -->
+<!-- <div align="center"> <img src="https://streak-stats.demolab.com?user=sayreine&theme=dracula&mode=daily" height="150" alt="GitHub streak"/> <img src="https://github-profile-trophy.vercel.app/?username=sayreine&theme=dracula" height="150" alt="GitHub trophies"/> </div> -->
 
 
-<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"> </p> ```
+<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"> </p>
